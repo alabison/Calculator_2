@@ -1,0 +1,40 @@
+.set{
+ background-color: rgb(3, 3, 35);
+ background-image:url(calc.png);
+ align-self: center;
+ width: 400px;
+ margin-left: auto; 
+ margin-right: auto; 
+ border-radius: 50px;
+ padding: auto;
+}
+
+
+input[type=button]{
+    background-color:gray;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom:20px ;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: auto;
+}
+
+input[type=text]{
+background-color:grey;
+height: 60px;
+width: 280px;
+border-radius: 50px;
+font-size: 50px;
+color:white;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bolder;
+margin-left: 20px;
+padding: auto;
+
+}
